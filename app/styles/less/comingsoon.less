@@ -1,9 +1,8 @@
 #background {
     width: 100%;
-    height: 650px;
+    height: 100%;
     background: url('/images/construct_2.jpg') center center no-repeat fixed;
     background-size: cover;
-    position: relative;
 
     &::after {
         content: "";
@@ -14,28 +13,20 @@
         background: rgba(0,0,0,.35);
     }
 
-    div {
-        position: fixed;
-        top: 30px;
-        right: 30px;
-        width: 105px;
-        height: 100px;
-        z-index: 2;
-
-        img {
-            position: relative;
-            height: 100px;
-        }
-    }
-
     section {
         position: absolute;
         top: 0; left: 0; right: 0; bottom: 0;
         margin: auto;
         width: 100%;
         max-width: 320px;
-        height: 200px;
+        height: 370px;
         z-index: 2;
+
+        img {
+            display: block;
+            margin: 0 auto;
+            height: 200px;
+        }
 
         h1,p {
             color: @defaultTextColor;
@@ -47,12 +38,6 @@
     }
 }
 
-.consummers {
-    .transition(all 700ms ease-out);
-    padding: 50px 0;
-
-    .card { overflow: hidden; }
-}
 
 footer {
     width: 100%;
