@@ -10,6 +10,7 @@
 
 <div class="container consummers row">
     <h2 class="header">Voici nos derniers clients : </h2>
+
     <div ng-repeat="consummer in consummers|limitTo:6" class="col s12 m4">
         <div class="card">
             <div class="card-image waves-effect waves-block waves-light">
@@ -25,6 +26,14 @@
               <p>{{ consummer.description }}</p>
             </div>
         </div>
+    </div>
+
+    <p class="header">Et aussi ...</p>
+    <div class="col s12 m12">
+        <span ng-repeat="consummer in consummers">
+            <span>{{ consummer.name }}</span>
+            <span>|</span>
+        </span>
     </div>
 </div>
 
