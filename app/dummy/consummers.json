@@ -28,25 +28,25 @@
             "_digin" : "Innovation"
         },
         {
-            "name" : "Melius - Gestion globale de sécurité",
+            "name" : "Melius",
             "description" : "Melius, entreprise spécialisée dans la gestion globale de la sécurité, a fait appel à Digin pour son nouveau site. Un design sur mesure pour un site bilingue et entièrement responsive. A découvrir sur http://melius.ca/fr/",
             "type" : "Sécurité, Services",
             "media" : {
-                "img" : "images/consummers/tp.png"
+                "img" : "images/consummers/melius.png"
             },
             "_digin" : "Innovation"
         },
         {
-            "name" : "Maindra - Coiffure et Relooking",
+            "name" : "Maiandra",
             "description" : "Sandra voulait complètement renouveler l’identité de son salon de coiffure situé en plein centre de Bordeaux, pour une nouvelle marque et un nouvel espace totalement redesigné autour de sa personnalité. Défi relevé. Maïandra c’est le nom du nouveau concept, toujours à la même adresse mais avec un nouveau design intérieur, print et Web : intérieur Feng Shui, espace séparé dédié au relooking, vitrine complètement refaite, plaquette de présentation des tarifs, cartes de visites et de fidélité, bons cadeaux, shooting photo professionnel, nouveau site Web responsive, nouvelle page facebook et google+, etc.C’était une véritable mission de communication globale de la recherche du nouveau nom jusqu’à la mise en place des annonces sur Google Adwords, en passant par le design de tout le print, le shooting photo et la création du nouveau site en ligne ici : http://esprit-maiandra.fr/",
             "type" : "Beauté & Bien-être, Services",
             "media" : {
-                "img" : "images/consummers/tp.png"
+                "img" : "images/consummers/maiandra.jpeg"
             },
             "_digin" : ""
         },
         {
-            "name" : "Gnubila France - R&D Cloud Computing",
+            "name" : "Gnubila France",
             "description" : "Nouveau design pour le site de Gnubila France, basé sur une plateforme Liferay (portail JAVA), dont nous avons poussé les limites : flat design totalement responsive, html5/css3/jQuery, slider avec vidéo en arrière-plan, etc. Le tout intégré dans Velocity le langage de templating de Liferay, défi relevé pour un résultat supra clean.À visiter ici : https://www.gnubila.fr/",
             "type" : "flat design, Ingénierie, Recherche, Services",
             "media" : {
@@ -64,7 +64,7 @@
             "_digin" : ""
         },
         {
-            "name" : "Ginseng Network - Partenariat avec le CNRS",
+            "name" : "Ginseng Network",
             "description" : "Le projet GINSENG a été fondé par l’ANR (Agence Nationale de la Recherche), son but est de créer une base de donnée de surveillance distribuée entre les sites médicaux. Nous leur avons créé plusieurs templates visuels intégrables et complètement personnalisables au sein de la plateforme java Liferay qu’ils utilisent.",
             "type" : "Recherche, Santé, Service Public",
             "media" : {
@@ -73,7 +73,7 @@
             "_digin" : ""
         },
         {
-            "name" : "Créative-B - Parteneriat avec le CNRS",
+            "name" : "Créative-B",
             "description" : "CReATIVE-B supporte la coordination entre les infrastructures de recherche sur la biodiversité et la recherche sur les écosystèmes à une échelle mondiale. Nous avons redesigné leur portail Web / Extranet visible ici : http://creative-b.eu/",
             "type" : "Recherche, Service Public",
             "media" : {
@@ -82,7 +82,7 @@
             "_digin" : ""
         },
         {
-            "name" : "Neugrid 4 U - parteneriat avec le CNRS",
+            "name" : "Neugrid 4 U",
             "description" : "Neugrid permet aux chercheurs du monde entier qui travaillent sur le cerveau de contribuer et de consulter des bases de données de cartographies cérébrales notamment et d’échanger un tas de données pour mettre en commun les connaissance et faire avancer la recherche.Nous avons redesigné complètement leur portail basé sur une technologie Java (Liferay), qui est accessible ici : https://neugrid4you.eu/",
             "type" : "Recherche, Santé, Service Public",
             "media" : {
@@ -91,7 +91,7 @@
             "_digin" : ""
         },
         {
-            "name" : "ENVRI - Parteneriat avec le CNRS et l'Union Européenne",
+            "name" : "ENVRI",
             "description" : "Le projet ENVRI cherche à fédérer les infrastructures de recherche dans le domaine des sciences environnementales sous mandat de l’Union Européenne. Nous avons effectué du design et du développement ainsi que de la maintenance sur leur portail extranet. Ce dernier peut-être visité ici : http://envri.eu/home",
             "type" : "Recherche, Service Public",
             "media" : {
@@ -100,7 +100,7 @@
             "_digin" : ""
         },
         {
-            "name" : "Boutique en ligne Vincent Sicet - Lingerie",
+            "name" : "Vincent Sicet",
             "description" : "« Confort, élégance, belles matières et savoir-faire… Choisissez votre lingerie séduction. » Une boutique en ligne entièrement gérée par l’équipe de Vincent Sicet qui a été formé pour la prise en main du site. A visiter ici : http://boutique.vincentsicet.com/",
             "type" : "Boutique en ligne",
             "media" : {
@@ -109,7 +109,7 @@
             "_digin" : ""
         },
         {
-            "name" : "CFA Jean Belloc - Dispositif d'Insertion (Guadeloupe)",
+            "name" : "CFA Jean Belloc",
             "description" : "",
             "type" : "Formation, Service Public",
             "media" : {
@@ -118,7 +118,7 @@
             "_digin" : ""
         },
         {
-            "name" : "CNRS (Lyon, Clermont-Ferrand, Paris)",
+            "name" : "CNRS",
             "description" : "",
             "type" : "Recherche, Santé, Service Public",
             "media" : {
