@@ -5,44 +5,331 @@
             "description" : "Réseau social de tennis",
             "type" : "developpement",
             "media" : {
-                "img" : ""
+                "img" : "images/consummers/tp.png"
             },
             "_digin" : "Innovation"
         },
         {
             "name" : "Trampoline Park",
-            "description" : "Ouais ouais du trampoline",
-            "type" : "webmarketing",
+            "description" : "Site Web one-page responsive, à partir d’un template wordpress, personnalisation et recodage de nombreuses fonctionnalités + ajouts de fonctions : http://trampolinepark.fr/ Création et Gestion de la page Facebook : acquisition d’une communauté qualifiée et entretien de la communauté, planning de publication sur 6 mois, gestion des budgets de sponsorisations Référencement naturel",
+            "type" : "Concept, Loisirs",
             "media" : {
-                "video" : "",
                 "img" : "images/consummers/tp.png"
             },
             "_digin" : "Success"
         },
         {
             "name" : "Boud'Soie",
-            "description" : "Produits cosmétique",
+            "description" : "",
             "type" : "developpement e-commerce",
             "media" : {
-                "img" : ""
+                "img" : "images/consummers/tp.png"
             },
             "_digin" : "Innovation"
         },
         {
-            "name" : "Melius",
-            "description" : "Securité",
-            "type" : "developpement",
+            "name" : "Melius - Gestion globale de sécurité",
+            "description" : "Melius, entreprise spécialisée dans la gestion globale de la sécurité, a fait appel à Digin pour son nouveau site. Un design sur mesure pour un site bilingue et entièrement responsive. A découvrir sur http://melius.ca/fr/",
+            "type" : "Sécurité, Services",
             "media" : {
-                "img" : "images/consummers/melius.png"
+                "img" : "images/consummers/tp.png"
             },
             "_digin" : "Innovation"
         },
         {
-            "name" : "Maindra",
+            "name" : "Maindra - Coiffure et Relooking",
+            "description" : "Sandra voulait complètement renouveler l’identité de son salon de coiffure situé en plein centre de Bordeaux, pour une nouvelle marque et un nouvel espace totalement redesigné autour de sa personnalité. Défi relevé. Maïandra c’est le nom du nouveau concept, toujours à la même adresse mais avec un nouveau design intérieur, print et Web : intérieur Feng Shui, espace séparé dédié au relooking, vitrine complètement refaite, plaquette de présentation des tarifs, cartes de visites et de fidélité, bons cadeaux, shooting photo professionnel, nouveau site Web responsive, nouvelle page facebook et google+, etc.C’était une véritable mission de communication globale de la recherche du nouveau nom jusqu’à la mise en place des annonces sur Google Adwords, en passant par le design de tout le print, le shooting photo et la création du nouveau site en ligne ici : http://esprit-maiandra.fr/",
+            "type" : "Beauté & Bien-être, Services",
+            "media" : {
+                "img" : "images/consummers/tp.png"
+            },
+            "_digin" : ""
+        },
+        {
+            "name" : "Gnubila France - R&D Cloud Computing",
+            "description" : "Nouveau design pour le site de Gnubila France, basé sur une plateforme Liferay (portail JAVA), dont nous avons poussé les limites : flat design totalement responsive, html5/css3/jQuery, slider avec vidéo en arrière-plan, etc. Le tout intégré dans Velocity le langage de templating de Liferay, défi relevé pour un résultat supra clean.À visiter ici : https://www.gnubila.fr/",
+            "type" : "flat design, Ingénierie, Recherche, Services",
+            "media" : {
+                "img" : "images/consummers/tp.png"
+            },
+            "_digin" : ""
+        },
+                {
+            "name" : "Jac Veyser - Massages",
+            "description" : "Un design sur mesure et un mini site totalement responsive pour Jac Veyser, masseur professionnel à Arcachon et Bordeaux.http://jacveysermassages.com/",
+            "type" : "Beauté & Bien-être, flat design, Santé, Services",
+            "media" : {
+                "img" : "images/consummers/tp.png"
+            },
+            "_digin" : ""
+        },
+        {
+            "name" : "Ginseng Network - Partenariat avec le CNRS",
+            "description" : "Le projet GINSENG a été fondé par l’ANR (Agence Nationale de la Recherche), son but est de créer une base de donnée de surveillance distribuée entre les sites médicaux. Nous leur avons créé plusieurs templates visuels intégrables et complètement personnalisables au sein de la plateforme java Liferay qu’ils utilisent.",
+            "type" : "Recherche, Santé, Service Public",
+            "media" : {
+                "img" : "images/consummers/tp.png"
+            },
+            "_digin" : ""
+        },
+        {
+            "name" : "Créative-B - Parteneriat avec le CNRS",
+            "description" : "CReATIVE-B supporte la coordination entre les infrastructures de recherche sur la biodiversité et la recherche sur les écosystèmes à une échelle mondiale. Nous avons redesigné leur portail Web / Extranet visible ici : http://creative-b.eu/",
+            "type" : "Recherche, Service Public",
+            "media" : {
+                "img" : "images/consummers/tp.png"
+            },
+            "_digin" : ""
+        },
+        {
+            "name" : "Neugrid 4 U - parteneriat avec le CNRS",
+            "description" : "Neugrid permet aux chercheurs du monde entier qui travaillent sur le cerveau de contribuer et de consulter des bases de données de cartographies cérébrales notamment et d’échanger un tas de données pour mettre en commun les connaissance et faire avancer la recherche.Nous avons redesigné complètement leur portail basé sur une technologie Java (Liferay), qui est accessible ici : https://neugrid4you.eu/",
+            "type" : "Recherche, Santé, Service Public",
+            "media" : {
+                "img" : "images/consummers/tp.png"
+            },
+            "_digin" : ""
+        },
+        {
+            "name" : "ENVRI - Parteneriat avec le CNRS et l'Union Européenne",
+            "description" : "Le projet ENVRI cherche à fédérer les infrastructures de recherche dans le domaine des sciences environnementales sous mandat de l’Union Européenne. Nous avons effectué du design et du développement ainsi que de la maintenance sur leur portail extranet. Ce dernier peut-être visité ici : http://envri.eu/home",
+            "type" : "Recherche, Service Public",
+            "media" : {
+                "img" : "images/consummers/tp.png"
+            },
+            "_digin" : ""
+        },
+        {
+            "name" : "Boutique en ligne Vincent Sicet - Lingerie",
+            "description" : "« Confort, élégance, belles matières et savoir-faire… Choisissez votre lingerie séduction. » Une boutique en ligne entièrement gérée par l’équipe de Vincent Sicet qui a été formé pour la prise en main du site. A visiter ici : http://boutique.vincentsicet.com/",
+            "type" : "Boutique en ligne",
+            "media" : {
+                "img" : "images/consummers/tp.png"
+            },
+            "_digin" : ""
+        },
+        {
+            "name" : "CFA Jean Belloc - Dispositif d'Insertion (Guadeloupe)",
             "description" : "",
-            "type" : "",
+            "type" : "Formation, Service Public",
             "media" : {
-                "img" : "images/consummers/maiandra.jpeg"
+                "img" : "images/consummers/tp.png"
+            },
+            "_digin" : ""
+        },
+        {
+            "name" : "CNRS (Lyon, Clermont-Ferrand, Paris)",
+            "description" : "",
+            "type" : "Recherche, Santé, Service Public",
+            "media" : {
+                "img" : "images/consummers/tp.png"
+            },
+            "_digin" : ""
+        },
+        {
+            "name" : "Nouveau site boutique pour Brosseau (Canada)",
+            "description" : "",
+            "type" : "Boutique en ligne",
+            "media" : {
+                "img" : "images/consummers/tp.png"
+            },
+            "_digin" : ""
+        },
+        {
+            "name" : "Gardere & Rossignol (Bordeaux)",
+            "description" : "",
+            "type" : "Aménagement & Design d'intérieur",
+            "media" : {
+                "img" : "images/consummers/tp.png"
+            },
+            "_digin" : ""
+        },
+        {
+            "name" : "Les Shaolin Temple Defenders",
+            "description" : "",
+            "type" : "Association, Evenementiel, Musique",
+            "media" : {
+                "img" : "images/consummers/tp.png"
+            },
+            "_digin" : ""
+        },
+        {
+            "name" : "Institut de beauté Framboise (Toulouse)",
+            "description" : "",
+            "type" : "Beauté & Bien-être",
+            "media" : {
+                "img" : "images/consummers/tp.png"
+            },
+            "_digin" : ""
+        },
+        {
+            "name" : "Citadine - Location de Voitures (Mérignac)",
+            "description" : "",
+            "type" : "Services",
+            "media" : {
+                "img" : "images/consummers/tp.png"
+            },
+            "_digin" : ""
+        },
+        {
+            "name" : "Nefesto - Esthétique à Domicile",
+            "description" : "",
+            "type" : "Beauté & Bien-être",
+            "media" : {
+                "img" : "images/consummers/tp.png"
+            },
+            "_digin" : ""
+        },
+        {
+            "name" : "Espaces Interieurs (Gradignan)",
+            "description" : "",
+            "type" : "Aménagement & Design d'intérieur",
+            "media" : {
+                "img" : "images/consummers/tp.png"
+            },
+            "_digin" : ""
+        },
+        {
+            "name" : "Pierre Solodky / Asaia Coaching (Lyon)",
+            "description" : "",
+            "type" : "Services",
+            "media" : {
+                "img" : "images/consummers/tp.png"
+            },
+            "_digin" : ""
+        },
+        {
+            "name" : "Grand Large - Agence Immobilière (La Rochelle)",
+            "description" : "",
+            "type" : "Immobilier",
+            "media" : {
+                "img" : "images/consummers/tp.png"
+            },
+            "_digin" : ""
+        },
+        {
+            "name" : "La Passiflore - Bien-être et Reflexologie (Bordeaux)",
+            "description" : "",
+            "type" : "Association, Beauté & Bien-être",
+            "media" : {
+                "img" : "images/consummers/tp.png"
+            },
+            "_digin" : ""
+        },
+        {
+            "name" : "Acca - Association de Chasse (Lacanau)",
+            "description" : "Nous avons réalisé pour l’ACCA de Lacanau un site Web sur mesure leur permettant d’une part de présenter l’association et de mettre en ligne leurs albums photos, mais également de communiquer avec leurs adhérents, concernant les arrêtés, les dates des événements (battus, réunions, ouverture et fermeture de la chasse, etc). ",
+            "type" : "Association",
+            "media" : {
+                "img" : "images/consummers/tp.png"
+            },
+            "_digin" : ""
+        },
+        {
+            "name" : "Promosites - Promoteur Immobilier (Sud-Ouest)",
+            "description" : "",
+            "type" : "Immobilier",
+            "media" : {
+                "img" : "images/consummers/tp.png"
+            },
+            "_digin" : ""
+        },
+        {
+            "name" : "Eclat de Soi - Beauté et Relooking (Paris)",
+            "description" : "",
+            "type" : "Association, Beauté & Bien-être, Santé",
+            "media" : {
+                "img" : "images/consummers/tp.png"
+            },
+            "_digin" : ""
+        },
+        {
+            "name" : "Laurence Vuitton Spa Formation (Bordeaux - Bali)",
+            "description" : "",
+            "type" : "Beauté & Bien-être",
+            "media" : {
+                "img" : "images/consummers/tp.png"
+            },
+            "_digin" : ""
+        },
+        {
+            "name" : "Mission Air - Logistique Humanitaire (Bordeaux)",
+            "description" : "",
+            "type" : "Association, Humanitaire",
+            "media" : {
+                "img" : "images/consummers/tp.png"
+            },
+            "_digin" : ""
+        },
+        {
+            "name" : "Kspot - Préparation Physqiue (Lacanau)",
+            "description" : "",
+            "type" : "Beauté & Bien-être, Santé",
+            "media" : {
+                "img" : "images/consummers/tp.png"
+            },
+            "_digin" : ""
+        },
+        {
+            "name" : "François Ouzoulias - Ostéopathe (Lacanau)",
+            "description" : "",
+            "type" : "Santé",
+            "media" : {
+                "img" : "images/consummers/tp.png"
+            },
+            "_digin" : ""
+        },
+        {
+            "name" : "Restaurant l'Oliveraie (Bordeaux)",
+            "description" : "",
+            "type" : "Restauration",
+            "media" : {
+                "img" : "images/consummers/tp.png"
+            },
+            "_digin" : ""
+        },
+        {
+            "name" : "Action Missionnaire (Bordeaux et 20 pays)",
+            "description" : "",
+            "type" : "Association, Humanitaire",
+            "media" : {
+                "img" : "images/consummers/tp.png"
+            },
+            "_digin" : ""
+        },
+        {
+            "name" : "Run Femina Tour (Toulouse, Bordeaux, Arcachon)",
+            "description" : "",
+            "type" : "Evenementiel",
+            "media" : {
+                "img" : "images/consummers/tp.png"
+            },
+            "_digin" : ""
+        },
+        {
+            "name" : "Bioecoprint - Imprimerie",
+            "description" : "",
+            "type" : "Services",
+            "media" : {
+                "img" : "images/consummers/tp.png"
+            },
+            "_digin" : ""
+        },
+        {
+            "name" : "La Commanderie de Queyret - Vignobles Comin",
+            "description" : "",
+            "type" : "Vin",
+            "media" : {
+                "img" : "images/consummers/tp.png"
+            },
+            "_digin" : ""
+        },
+        {
+            "name" : "Hypnotic Design'Hair (Bordeaux)",
+            "description" : "",
+            "type" : "Beauté & Bien-être",
+            "media" : {
+                "img" : "images/consummers/tp.png"
             },
             "_digin" : ""
         }
